@@ -110,10 +110,11 @@ void SystemClock_Config(void)
 } ```
 ## Output  :
  ### LED OFF:
- [pmmc_exp1(1).pdf](https://github.com/Monishofficial/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/files/14570590/pmmc_exp1.1.pdf)
+ ![pmmc_exp2(1)](https://github.com/Monishofficial/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/149455421/1aa8a11d-90f3-45ed-abde-c861c44f5713)
 
  ### LED ON:
- [pmmc_exp1(2).pdf](https://github.com/Monishofficial/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/files/14570591/pmmc_exp1.2.pdf)
+![pmmc_exp2(2)](https://github.com/Monishofficial/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/149455421/3691059e-2690-4857-a0f7-fcd86e643096)
+
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller is executed and the results are verified.
